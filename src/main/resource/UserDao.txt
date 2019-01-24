@@ -1,0 +1,3 @@
+service=cn.lkhcoding.minispring.service.impl.UserServiceImpl
+myUserDao=cn.lkhcoding.minispring.dao.impl.UserDaoOracleImpl
+service#userDao=myUserDao
